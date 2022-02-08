@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MVVM_Room</string>
+    <string name="buscar">Buscar</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email</string>
+    <string name="edad">Edad</string>
+    <string name="apellido">Apellido</string>
+    <string name="guardar">Guardar</string>
+    <string name="editar">Editar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="borrar_persona">¿Desea borrar este registro?</string>
+</resources>
