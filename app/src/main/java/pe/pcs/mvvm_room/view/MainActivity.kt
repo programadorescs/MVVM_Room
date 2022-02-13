@@ -1,4 +1,4 @@
-package pe.pcs.mvvm_room
+package pe.pcs.mvvm_room.view
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -12,7 +12,6 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import pe.pcs.mvvm_room.adapter.PersonalAdapter
 import pe.pcs.mvvm_room.config.Constantes
 import pe.pcs.mvvm_room.databinding.ActivityMainBinding
-import pe.pcs.mvvm_room.view.FormularioActivity
 import pe.pcs.mvvm_room.viewmodel.MainViewModel
 
 class MainActivity : AppCompatActivity() {

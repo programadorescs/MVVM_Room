@@ -8,8 +8,6 @@ import android.widget.Toast
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.get
-import pe.pcs.mvvm_room.MainActivity
-import pe.pcs.mvvm_room.R
 import pe.pcs.mvvm_room.config.Constantes
 import pe.pcs.mvvm_room.databinding.ActivityFormularioBinding
 import pe.pcs.mvvm_room.dialog.BorrarDialogo
