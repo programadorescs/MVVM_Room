@@ -74,7 +74,7 @@ class FormularioViewModel: ViewModel() {
 
     fun cargarDatos() {
         viewModelScope.launch {
-            var persona = withContext(Dispatchers.IO) {
+            val persona = withContext(Dispatchers.IO) {
                 db.personalDao().getById(id.value ?: 0)
             }
 
