@@ -12,4 +12,4 @@ data class Personal (
     var email: String,
     var telefono: String,
     var edad: Int
-        )
+)

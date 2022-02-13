@@ -5,6 +5,8 @@
       <map>
         <entry key="..\:/Proyectos Android/MVVM_Room/app/src/main/res/layout/activity_formulario.xml" value="0.20416666666666666" />
         <entry key="..\:/Proyectos Android/MVVM_Room/app/src/main/res/layout/activity_main.xml" value="0.21" />
+        <entry key="..\:/Proyectos Android/MVVM_Room/app/src/main/res/layout/fragment_leer_array_json.xml" value="0.20416666666666666" />
+        <entry key="..\:/Proyectos Android/MVVM_Room/app/src/main/res/layout/item_cliente.xml" value="0.20416666666666666" />
         <entry key="..\:/Proyectos Android/MVVM_Room/app/src/main/res/layout/item_list.xml" value="0.33" />
       </map>
     </option>
